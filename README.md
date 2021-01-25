@@ -15,6 +15,8 @@ Dada la situación económica que se enfrenta en los mercados financieros a raí
 | --- | --- | --- |
 |Laura Valentina Muñoz Cuestas | 2 horas | 8 horas |
 
+### Contenido
+
 El contenido que se abarcará en cada una de las sesiones será descrito a continuación:
 
 #### *Sesión 1 – Introducción a la bolsa*
@@ -125,3 +127,9 @@ El contenido que se abarcará en cada una de las sesiones será descrito a conti
 
 - Concepto
 - Crowdfunding BVC
+
+### Páginas relacionadas
+
+- Bolsa de valores de Colombia (https://www.bvc.com.co/nueva/)
+- Bolsa mercantil de Colombia (https://www.bolsamercantil.com.co/)
+- CME Group (https://www.cmegroup.com/)
