@@ -25,41 +25,31 @@ El contenido de cada una de las sesiones será el siguiente:
 1. Mercados financieros
 
 1.1. Concepto
-
 1.2. Función principal
 
 2. Mercado de valores 
 
 2.1. Concepto
-
 2.2. ¿Qué es un valor?
-
 2.3. Ejemplo
 
 3. Bolsa de valores
 
 3.1. Concepto
-
 3.2. Historia BVC
-
 3.3. Entes reguladores
 
 4. Renta variable
 
 4.1. ¿Qué es una acción?
-
 4.2. Tipos de derechos
-
 4.3. Tipos de acciones
-
 4.4. ¿Cómo ganar con las acciones?
 
 5. Renta fija
 
 5.1. ¿Qué es un bono?
-
 5.2. ¿Quienes emiten los bonos?
-
 5.3. Mercado primario y secundario
 
 
