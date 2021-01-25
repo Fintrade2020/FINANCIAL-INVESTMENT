@@ -130,8 +130,8 @@ El contenido que se abarcará en cada una de las sesiones será descrito a conti
 
 ### Páginas relacionadas
 
-- Bolsa de valores de Colombia - https://www.bvc.com.co/nueva/
-- Bolsa mercantil de Colombia - https://www.bolsamercantil.com.co/
-- CME Group - https://www.cmegroup.com/
+- Bolsa de valores de Colombia (BVC) - https://www.bvc.com.co/nueva/
+- Bolsa mercantil de Colombia (BMC) - https://www.bolsamercantil.com.co/
+- Chicago Mercantile Exchange Group - https://www.cmegroup.com/
 - Tradingview - https://www.tradingview.com/
 - Investment - https://www.investing.com/
