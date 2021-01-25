@@ -20,38 +20,38 @@ Dada la situación económica que se enfrenta en los mercados financieros a raí
 
 El contenido de cada una de las sesiones será el siguiente:
 
-#### Sesión 1 – Introducción a la bolsa
+#### *Sesión 1 – Introducción a la bolsa*
 
-1. Mercados financieros
+**1. Mercados financieros**
 
-1.1. Concepto
-1.2. Función principal
+- Concepto
+- Función principal
 
-2. Mercado de valores 
+**2. Mercado de valores**
 
-2.1. Concepto
-2.2. ¿Qué es un valor?
-2.3. Ejemplo
+- Concepto
+- ¿Qué es un valor?
+- Ejemplo
+- Historia Bolsa de Valores de Colombia
+- Entes reguladores
 
-3. Bolsa de valores
+**3. Renta variable**
 
-3.1. Concepto
-3.2. Historia BVC
-3.3. Entes reguladores
+- ¿Qué es una acción?
+- Tipos de derechos
+- Tipos de acciones
+- ¿Cómo ganar con las acciones?
 
-4. Renta variable
+**4. Renta fija**
 
-4.1. ¿Qué es una acción?
-4.2. Tipos de derechos
-4.3. Tipos de acciones
-4.4. ¿Cómo ganar con las acciones?
+- ¿Qué es un bono?
+- ¿Quienes emiten los bonos?
+- Mercado primario y secundario
 
-5. Renta fija
+**Tips financieros**
 
-5.1. ¿Qué es un bono?
-5.2. ¿Quienes emiten los bonos?
-5.3. Mercado primario y secundario
-
+- ¿Cómo inverti en la BVC?
+- Errores al invertir
 
 #### Sesión 2 – Los activos que más destacan
 
