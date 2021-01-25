@@ -89,13 +89,42 @@ El contenido de cada una de las sesiones será el siguiente:
 
 #### Sesión 3 – Analizando como un profesional
 
-1. Tipos de análisis
-2. Investing
-3. Tradingview
-4. Psciología del trading
+*1. Tipos de análisis*
+
+- Análisis fundamental
+- Análisis técnico
+- Tipos de gráficas
+- Velas japonesas
+- Soportes y resistencias
+
+*2. Investing*
+
+- Ejemplo práctico 
+
+*3. Tradingview*
+
+- Ejemplo práctico
+
+*4. Psciología del trading*
+
+- Importancia
+- Las emociones
 
 #### Sesión 4 – Casos de éxito
 
-1. Warren Buffet
-2. Fondos de Inversión
-3. Crowdfunding
+*1. Warren Buffet*
+
+- Biografía
+- Estilo de inversión
+- Tips de inversión
+
+*2. Fondos de Inversión*
+
+- Concepto
+- Vanguard gruop
+- Morningstar
+
+*3. Crowdfunding*
+
+- Concepto
+- Crowdfunding BVC
