@@ -22,44 +22,70 @@ El contenido de cada una de las sesiones será el siguiente:
 
 #### *Sesión 1 – Introducción a la bolsa*
 
-**1. Mercados financieros**
+*1. Mercados financieros*
 
 - Concepto
 - Función principal
 
-**2. Mercado de valores**
+*2. Mercado de valores*
 
 - Concepto
 - ¿Qué es un valor?
 - Ejemplo
-- Historia Bolsa de Valores de Colombia
+- Bolsa de Valores de Colombia (BVC)
 - Entes reguladores
 
-**3. Renta variable**
+*3. Renta variable*
 
 - ¿Qué es una acción?
 - Tipos de derechos
 - Tipos de acciones
 - ¿Cómo ganar con las acciones?
 
-**4. Renta fija**
+*4. Renta fija*
 
 - ¿Qué es un bono?
 - ¿Quienes emiten los bonos?
 - Mercado primario y secundario
 
-**Tips financieros**
+*Tips financieros*
 
 - ¿Cómo inverti en la BVC?
 - Errores al invertir
 
 #### Sesión 2 – Los activos que más destacan
 
-1. Derivados financieros
-2. Instrumentos
-3. Oro
-4. Petróleo
-5. Bitcoin
+*1. Derivados financieros*
+
+- Concepto
+- Bolsa mercantil de Colombia (BMC)
+- Chicago mercantile exchange (CME)
+- Mercado estandarizado y no estandarizado
+
+*2. Instrumentos*
+
+- Forwards
+- Futuros
+- Opciones
+- Swaps
+
+*3. Oro*
+
+- Su atractivo principal
+- Beneficios de invertir en él
+- ¿Cómo invertir en oro?
+
+*4. Petróleo*
+
+- Su atractivo principal
+- Comparación WTI y Brent
+- ¿Cómo invertir en petróleo?
+
+*5. Bitcoin*
+
+- Su atractivo principal
+- Desventajas de invertir en él
+- ¿Cómo invertir en bitcoin?
 
 #### Sesión 3 – Analizando como un profesional
 
