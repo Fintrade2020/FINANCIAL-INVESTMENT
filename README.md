@@ -115,12 +115,11 @@ El contenido que se abarcó en cada una de las sesiones será descrito a continu
 
 - Biografía
 - Estilo de inversión
-- Tips de inversión
 
 *2. Fondos de Inversión*
 
 - Concepto
-- Vanguard gruop
+- Ventajas de invertir en ellos
 - Morningstar
 
 *3. Crowdfunding*
@@ -133,6 +132,7 @@ El contenido que se abarcó en cada una de las sesiones será descrito a continu
 - Bolsa de valores de Colombia (BVC) - https://www.bvc.com.co/nueva/
 - Bolsa mercantil de Colombia (BMC) - https://www.bolsamercantil.com.co/
 - Chicago Mercantile Exchange Group - https://www.cmegroup.com/
+- Morningstar - https://www.morningstar.es/es/
 - Yahoo Finance - https://finance.yahoo.com/
 - Tradingview - https://www.tradingview.com/
 - Investment - https://www.investing.com/
