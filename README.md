@@ -19,7 +19,9 @@ Dada la situación económica que se enfrenta en los mercados financieros a raí
 
 El contenido que se abarcó en cada una de las sesiones será descrito a continuación:
 
-#### *Sesión 1 – Introducción a la bolsa*
+#### *Sesión 1 – Introducción a la bolsa* 
+Grabación: [***Para ver la primera clase da clic acá***](https://web.microsoftstream.com/video/25e101bc-9450-4cc7-94a6-06a978d64ae0)
+
 
 *1. Mercados financieros*
 
@@ -53,6 +55,8 @@ El contenido que se abarcó en cada una de las sesiones será descrito a continu
 - Errores al invertir
 
 #### Sesión 2 – Los activos que más destacan
+Grabación: [***Para ver la segunda clase da clic acá***](https://web.microsoftstream.com/video/e74be467-ad60-4aa0-9018-83c50ac7cf78)
+
 
 *1. Derivados financieros*
 
@@ -87,6 +91,8 @@ El contenido que se abarcó en cada una de las sesiones será descrito a continu
 - ¿Cómo invertir en bitcoin?
 
 #### Sesión 3 – Analizando como un profesional
+Grabación: [***Para ver la tercera clase da clic acá***](https://web.microsoftstream.com/video/191c2bbf-1d55-4bc0-a538-662b0523eaaa)
+
 
 *1. Tipos de análisis*
 
@@ -110,6 +116,8 @@ El contenido que se abarcó en cada una de las sesiones será descrito a continu
 - Las emociones
 
 #### Sesión 4 – Casos de éxito
+Grabación: [***Para ver la tercera clase da clic acá***](https://web.microsoftstream.com/video/4bacea47-6428-42a1-af54-8110d6842942)
+
 
 *1. Warren Buffet*
 
